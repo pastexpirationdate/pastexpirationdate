@@ -1,7 +1,4 @@
 ## " autumn leaves, they fall with me "
-15/07/2004
-
-[ IF UR BELOW 17y, PLEASE DNI! ]
 
 **'' ABOUT ME ''**
 - You can call me **Marceline, Marcy, or Expired**, any of 'em works! I use she/her and they/them pronouns. 
@@ -24,3 +21,5 @@
 - Strange/different/experimental music 
 - Music producing & bands in general
 - Roblox, Cyberpunk 2077, Minecraft, Forza & NFS
+
+## 15/07/2004
