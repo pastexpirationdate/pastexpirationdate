@@ -1,15 +1,15 @@
 ## " autumn leaves, they fall with me "
 
 **'' ABOUT ME ''**
-- You can call me **Marceline, Marcy, or Expired**, any of 'em works! I use she/her and they/them pronouns. 
-- I'm 20 years old, currently living in Sao Paulo, Brazil, but "soon" moving to Canada. 
+- You can call me **Marceline, Marcy, or Expired**, any of 'em work! I use any pronouns. 
+- Currently living in Sao Paulo, Brazil, but "soon" moving to Canada. 
 - I speak English, Portuguese, and I'm learning Russian. 
-- Before you interact with me, beware that I'm not good at socializing, and I tend to be pessimistic or negative about everything, but don't be afraid! 
+- Before you interact with me, beware that I'm not good at socializing, and I tend to be pessimistic or negative about everything, but don't be afraid, I'm just very Stoic! 
 **If you've found me on Pony Town, feel free to interact with me!**
 
 **'' DNI ''**
-- Basic DNI criteria; (DNI if you're transphobic, actual racist, homophobe, etc)
-- People who are below 17 years old. (sorry buddy.)
+- Basic DNI criteria; (DNI if you're transphobic (even though I have my own critiques about LGBT people), actual racist, etc etc)
+- People who are below 16 years old. (sorry, buddy.)
 - If you don't respect my politic views, the fact that I'm right-wing doesn't make me a nazi or something like that, I'm a human just like you.
 - Creeps (ofc)
   
