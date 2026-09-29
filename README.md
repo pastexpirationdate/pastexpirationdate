@@ -1,90 +1,57 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/865988577065304065?theme=dark&animated=true&hideActivity=whenNotUsed&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/865988577065304065)
+<div align="center">
+  <!-- Banner Preto e Branco -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=ffffff&desc=</>&descAlignY=65&descSize=20" />
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+  <br><br>
 
-<!-- display the social media buttons in your README -->
+  <!-- Botões de Redes Sociais -->
+  <a href="https://twitter.com/im_expired"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:marcelineangela@proton.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/865988577065304065"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
+  <br><br>
 
+  <!-- Animação de digitação em Branco -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=ricing+my+os;pretending+to+code;breaking+stuff+and+fixing+stuff" alt="Typing SVG" /></a>
+</div>
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
+---
 
-<!-- icons with padding -->
+### 👤 Sobre mim
+- 👋 Hi! I'm Marcy Angel!
+- 🌍 São Paulo, Brazil.
+- 🐧 Linux User & Ricer.
 
-[1.1]: https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter-x.svg (X/Twitter)
-[2.1]: https://github.com/CLorant/readme-social-icons/blob/main/large/filled/spotify.svg (Spotify)
-[3.1]: https://github.com/CLorant/readme-social-icons/raw/main/large/colored/telegram.svg (Telegram)
-[4.1]: https://github.com/CLorant/readme-social-icons/raw/main/large/colored/instagram.svg (Instagram)
-[5.1]: https://github.com/CLorant/readme-social-icons/blob/main/large/colored/discord.svg (Discord)
+### 🛠 Tecnologias e Ferramentas
+<!-- Badges de tecnologias em Preto e Branco -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
 
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
+<br>
 
-[1]: https://x.com/idiota_sozinho
-[2]: https://open.spotify.com/user/31g7qo7ukmlncvnesgynxwnq3cem
-[3]: https://t.me/pastexpirationdate
-[4]: https://www.instagram.com/past.expiration.date/
-[5]: https://discordapp.com/users/865988577065304065
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
------------------------------------------------------------------------------------------------------------------------
-
-## " autumn leaves, they fall with me "
-
------------------------------------------------------------------------------------------------------------------------
-
-**'' ABOUT ME ''**
-- You can call me **Marceline, Marcy, or Expired**, any of 'em work! I use any pronouns. 
-- Currently living in Sao Paulo, Brazil, but "soon" moving to Canada. 
-- I speak English, Portuguese, and I'm learning Russian. 
-- Before you interact with me, beware that I'm not good at socializing, and I tend to be pessimistic or negative about everything, but don't be afraid, I'm just very Stoic! 
-**If you've found me on Pony Town, feel free to interact with me!**
-
-**'' DNI ''**
-- Basic DNI criteria; (DNI if you're transphobic (even though I have my own critiques about LGBT people), actual racist, etc etc)
-- People who are below 16 years old. (sorry, buddy.)
-- If you don't respect my politic views, the fact that I'm right-wing doesn't make me a nazi or something like that, I'm a human just like you.
-- Creeps (ofc)
+### 📊 Estatísticas (Dark & White)
+<div align="center">
+  <!-- Stats com tema 100% Preto e Branco customizado -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pastexpirationdate&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
   
-**'' THIN ICE ''**
-- Hypersexual people in general, I am hypersexual myself but I may not be feeling like it atm, so...yeah.
-- Fandom people in general, I don't consume a whole lot of media, so I may not understand or vibe with you.
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pastexpirationdate&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" width="48%" />
+</div>
 
-**'' INTERESTS ''**
-- Strange/different/experimental music 
-- Music producing & bands in general
-- Roblox, Cyberpunk 2077, Minecraft, Forza & NFS
+<br>
 
------------------------------------------------------------------------------------------------------------------------
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pastexpirationdate&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff&hide_border=false&layout=compact" />
+</div>
 
-**'' SOBRE MIM ''**
-- Você pode me chamar de **Marceline, Marcy ou EXPIRED**, qualquer uma serve! Eu uso qualquer pronome.
-- Atualmente morando em São Paulo, Brasil, mas "em breve" me mudando para o Canadá.
-- Falo inglês, português e estou aprendendo russo.
-- Antes de interagir comigo, saiba que não sou boa em socializar e costumo ser pessimista ou negativa em relação a tudo, mas não tenha medo, só sou muito estoica!
-**Se você me encontrou no Pony Town, sinta-se à vontade para interagir comigo!**
+---
+<div align="center">
+  <i>"but does it run doom?"</i>
+</div>
 
-**'' DNI ''**
-- BAsicamente o normal; (DNI se você for transfóbico (embora eu tenha minhas próprias críticas sobre pessoas LGBT), racista de fato, etc.)
-- Pessoas com menos de 16 anos. (Desculpa, amigão.)
-- Se você não respeita minhas visões políticas, o fato de eu ser de direita não me torna um nazista ou algo assim, sou humano como você.
-- Esquisitos. (claro)
-
-**'' CUIDADOS ''**
-- Pessoas hipersexuais em geral. Eu também sou hipersexual, mas posso não estar com vontade no momento, então... é.
-- Pessoas de fandom em geral. Eu não consumo muita mídia, então posso não entender ou não me identificar com você.
-
-**'' INTERESSES ''**
-- Música estranha/diferente/experimental
-- Produção musical e bandas em geral
-- Roblox, Cyberpunk 2077, Minecraft, Forza e NFS
-
------------------------------------------------------------------------------------------------------------------------
-
-## 15/07/2004
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/865988577065304065?theme=dark&animated=true&hideActivity=whenNotUsed&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/865988577065304065)
