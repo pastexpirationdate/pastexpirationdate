@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner Preto e Branco -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=ffffff&desc=</>&descAlignY=65&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=ffffff&desc=%3C/%3E&descAlignY=65&descSize=20" />
 
   <br><br>
 
@@ -17,12 +17,12 @@
 
 ---
 
-### 👤 Sobre mim
+### 👤 About Me
 - 👋 Hi! I'm Marcy Angel!
 - 🌍 São Paulo, Brazil.
 - 🐧 Linux User & Ricer.
 
-### 🛠 Tecnologias e Ferramentas
+### 🛠 Langs
 <!-- Badges de tecnologias em Preto e Branco -->
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
@@ -35,7 +35,7 @@
 
 <br>
 
-### 📊 Estatísticas (Dark & White)
+### 📊 Stats
 <div align="center">
   <!-- Stats com tema 100% Preto e Branco customizado -->
   <img src="https://github-readme-stats.vercel.app/api?username=pastexpirationdate&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
