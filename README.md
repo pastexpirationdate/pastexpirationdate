@@ -53,7 +53,7 @@ I like building tiny tools that run anywhere, messing around with computers and 
                           [ coming soon ]
 ```
 
-**[>> SAME Code Decoder <<](https://github.com/pastexpirationdate/REPO_NAME)**
+**[>> SAME Code Decoder <<](https://github.com/pastexpirationdate/EAS-SAME-Code-Encoder-and-Decoder)**
 
 <br>
 
